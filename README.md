@@ -46,15 +46,15 @@ me = {
 <table>
   <tr>
     <td width="36%" valign="top"><b>Backend Engineering Intern</b><br /><sub>QI Tech · 2025 to 2026</sub></td>
-    <td valign="top">Built the backend of an API that sweeps fund accounts into short-term assets every day, automating a manual process run by 5+ teams. Split it into microservices, modeled the MySQL database, deployed on GCP with Terraform. Also built a pre-matching API for government bond trades.</td>
+    <td valign="top">Owned the backend of an API that invests fund accounts' idle cash on D+0 and returns it with yield on D+1, <b>replacing a daily manual process run by 5+ teams</b>. Mapped the process with the business team, pushed to split it into microservices, modeled the MySQL database from scratch and deployed on GCP with Terraform. Also built a pre-matching API for government bond trades.<br /><br /><code>Python</code> <code>FastAPI</code> <code>MySQL</code> <code>GCP</code> <code>Pub/Sub</code> <code>Terraform</code></td>
   </tr>
   <tr>
     <td width="36%" valign="top"><b>Software Engineering Intern</b><br /><sub>BTG Pactual · 2022, 2024, 2025</sub></td>
-    <td valign="top">Three summers: applications for the trading desk, then offshore funds.</td>
+    <td valign="top">First two summers: <b>moved the trading desk off a slow, error-prone legacy platform</b> to a faster, cleaner web app with more features. Third summer, in offshore funds: wrote Jest unit tests that <b>raised coverage above 95%</b>, and maintained the client-facing UI/UX.<br /><br /><code>TypeScript</code> <code>React</code> <code>Jest</code></td>
   </tr>
   <tr>
     <td width="36%" valign="top"><b>Business & Data Analysis Intern</b><br /><sub>IBM Brazil · 2023 to 2024</sub></td>
-    <td valign="top">Helped build a client's cloud on GCP from scratch, working daily with their business, legal, tech and leadership teams. Data cleaning and analysis, plus Salesforce.</td>
+    <td valign="top">Started in quality assurance, improving the experience of the client's end users. Then, on a cloud project, <b>brought the client's sales data from many partners into one place</b>: it used to arrive by email, spreadsheets and other sales-tracking platforms, and now lands in a single cloud setup with dashboards on top.<br /><br /><code>GCP</code> <code>Salesforce</code> <code>QA</code></td>
   </tr>
 </table>
 
