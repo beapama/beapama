@@ -17,7 +17,17 @@
 
 ## 🧬 about
 
-<p align="center"><img src="./about.svg" width="100%" alt="me: backend &amp; data for financial systems · São Paulo, Brazil · intern @ QI Tech, BTG Pactual &amp; IBM · Computer Engineering, Escola Politécnica da USP · learning GenAI engineering · speaks Portuguese and English · she/her" /></p>
+```python
+me = {
+    "does":     "backend & data for financial systems",
+    "based":    "São Paulo, Brazil",
+    "was":      "intern @ QI Tech, BTG Pactual & IBM",
+    "degree":   "Computer Engineering, Escola Politécnica da USP",
+    "learning": "GenAI engineering: RAG, agents, LLM evals",
+    "speaks":   ["Portuguese", "English"],
+    "pronouns": "she/her",
+}
+```
 
 <details>
 <summary><b>🌱 how I got here. click for the short version</b></summary>
