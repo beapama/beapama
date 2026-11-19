@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/beatrizpama"><img src="https://img.shields.io/badge/LinkedIn-D52A63?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-D52A63?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D52A63?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.credly.com/users/beatriz-pama"><img src="https://img.shields.io/badge/Credly-D52A63?style=for-the-badge" alt="Credly" /></a>
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ me = {
 <p align="center"><b>Working on something in fintech, data or AI? I'd love to hear about it.</b></p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/say_hi-D52A63?style=for-the-badge" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/beatrizpama"><img src="https://img.shields.io/badge/say_hi-D52A63?style=for-the-badge" alt="Say hi on LinkedIn" /></a>
 </p>
 
 <p align="center"><img src="./footer.svg" width="100%" alt="thanks for stopping by" /></p>
