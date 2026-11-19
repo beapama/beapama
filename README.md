@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/5%2B_teams-manual_process_automated-E59693?style=for-the-badge&labelColor=621027" alt="A manual process run by 5+ teams, automated" />
+  <img src="https://img.shields.io/badge/1_API-automated_the_daily_fund_cash_sweep_for_5%2B_teams-E59693?style=for-the-badge&labelColor=621027" alt="1 API that automated the daily fund cash sweep for 5+ teams" />
   <img src="https://img.shields.io/badge/3x-BTG_Pactual_internships-E59693?style=for-the-badge&labelColor=621027" alt="3 internships at BTG Pactual" />
   <img src="https://img.shields.io/badge/Salesforce-certified_AI_associate-E59693?style=for-the-badge&labelColor=621027" alt="Salesforce Certified AI Associate" />
 </p>
