@@ -24,7 +24,7 @@ me = {
     "was":      "intern @ QI Tech, BTG Pactual & IBM",
     "degree":   "Computer Engineering, Escola Politécnica da USP",
     "learning": "GenAI engineering: RAG, agents, LLM evals",
-    "speaks":   ["Portuguese", "English"],
+    "speaks":   ["Portuguese", "English", "French"],
     "pronouns": "she/her",
 }
 ```
