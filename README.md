@@ -1,30 +1,30 @@
 <p align="center">
 
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Your%20Name&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Your%20Role%20%C2%B7%20Your%20Highlight&descSize=24&descAlignY=64" width="100%" alt="Your Name, Your Role" /></a>
+  <a href="https://github.com/beatrizpama"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:54161E,100:2967A8&height=220&section=header&text=Beatriz%20Pama&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Fintech%20%C2%B7%20Data%20%26%20AI&descSize=24&descAlignY=64" width="100%" alt="Beatriz Pama, Software Engineer · Fintech · Data & AI" /></a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+your+first+line.;%3E+your+second+line.;%3E+your+third+line." width="100%" alt="Your typing lines" />
-
-</p>
-
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
-
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a>
-
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=DFD1DD&background=54161E&center=true&vCenter=true&width=854&height=64&lines=%3E+backend+for+financial+systems.;%3E+turning+manual+processes+into+APIs.;%3E+now%3A+learning+GenAI%2C+one+project+at+a+time." width="100%" alt="backend for financial systems. turning manual processes into APIs. now: learning GenAI, one project at a time." />
 
 </p>
 
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Highlight 1" />
+  <a href="https://www.linkedin.com/in/beatrizpama"><img src="https://img.shields.io/badge/LinkedIn-2967A8?style=for-the-badge" alt="LinkedIn" /></a>
 
-  <img src="https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Highlight 2" />
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-2967A8?style=for-the-badge" alt="Portfolio" /></a>
 
-  <img src="https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Highlight 3" />
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-2967A8?style=for-the-badge" alt="Email" /></a>
+
+</p>
+
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/5%2B_teams-manual_process_automated-B28FA7?style=for-the-badge&labelColor=54161E" alt="A manual process run by 5+ teams, automated" />
+
+  <img src="https://img.shields.io/badge/3x-BTG_Pactual_internships-B28FA7?style=for-the-badge&labelColor=54161E" alt="3 internships at BTG Pactual" />
+
+  <img src="https://img.shields.io/badge/Salesforce-certified_AI_associate-B28FA7?style=for-the-badge&labelColor=54161E" alt="Salesforce Certified AI Associate" />
 
 </p>
 
@@ -36,19 +36,19 @@
 
 me = {
 
-    "does":     "what you do, in one line",
+    "does":     "backend & data for financial systems",
 
-    "based":    "your city / country",
+    "based":    "São Paulo, Brazil",
 
-    "was":      "your past role @ company",
+    "was":      "intern @ QI Tech, BTG Pactual & IBM",
 
-    "degree":   "your degree, school",
+    "degree":   "Computer Engineering, Escola Politécnica da USP",
 
-    "learning": "what you are learning",
+    "learning": "GenAI engineering: RAG, agents, LLM evals",
 
-    "speaks":   ["Language 1", "Language 2"],
+    "speaks":   ["Portuguese", "English"],
 
-    "pronouns": "your pronouns",
+    "pronouns": "she/her",
 
 }
 
@@ -63,11 +63,15 @@ me = {
 
 <table>
 
-  <tr><td><b>Year</b></td><td>what happened</td></tr>
+  <tr><td><b>2020</b></td><td>Joined Poli Júnior and coordinated the commercial, HR and finance teams.</td></tr>
 
-  <tr><td><b>Year</b></td><td>what happened</td></tr>
+  <tr><td><b>2022</b></td><td>First summer at BTG Pactual, building apps for the trading desk.</td></tr>
 
-  <tr><td><b>Year</b></td><td>what happened</td></tr>
+  <tr><td><b>2023</b></td><td>IBM: helped build a client's GCP cloud from scratch, talking to business, legal and tech every day.</td></tr>
+
+  <tr><td><b>2025</b></td><td>QI Tech: backend for treasury, owning an API end to end for the first time.</td></tr>
+
+  <tr><td><b>2026</b></td><td>Diving into GenAI, building finance projects with LLMs.</td></tr>
 
 </table>
 
@@ -81,17 +85,25 @@ me = {
 
   <tr>
 
-    <td width="36%" valign="top"><b>Your Role</b><br /><sub>Company, City · Year</sub></td>
+    <td width="36%" valign="top"><b>Backend Engineering Intern</b><br /><sub>QI Tech · 2025 to 2026</sub></td>
 
-    <td valign="top">What you did, in one or two lines.</td>
+    <td valign="top">Built the backend of an API that sweeps fund accounts into short-term assets every day, automating a manual process run by 5+ teams. Split it into microservices, modeled the MySQL database, deployed on GCP with Terraform. Also built a pre-matching API for government bond trades.</td>
 
   </tr>
 
   <tr>
 
-    <td width="36%" valign="top"><b>Your Role</b><br /><sub>Company, City · Year to Year</sub></td>
+    <td width="36%" valign="top"><b>Software Engineering Intern</b><br /><sub>BTG Pactual · 2022, 2024, 2025</sub></td>
 
-    <td valign="top">What you did, in one or two lines.</td>
+    <td valign="top">Three summers: applications for the trading desk, then offshore funds.</td>
+
+  </tr>
+
+  <tr>
+
+    <td width="36%" valign="top"><b>Business & Data Analysis Intern</b><br /><sub>IBM Brazil · 2023 to 2024</sub></td>
+
+    <td valign="top">Helped build a client's cloud on GCP from scratch, working daily with their business, legal, tech and leadership teams. Data cleaning and analysis, plus Salesforce.</td>
 
   </tr>
 
@@ -107,27 +119,27 @@ me = {
 
     <td width="50%" valign="top">
 
-      <h3>☁️ <a href="https://PROJECT_LINK">Project One</a></h3>
+      <h3>📈 <a href="https://PROJECT_LINK">The Self-Explaining Chart</a></h3>
 
-      <sub><b>short label · live demo</b></sub>
+      <sub><b>GenAI · B3 stocks · in progress</b></sub>
 
-      <p>What it does, in one or two sentences.</p>
+      <p>A stock chart for B3 tickers where an LLM explains what happened on the days with big moves.</p>
 
-      <p><code>Tool</code> <code>Tool</code> <code>Tool</code></p>
+      <p><code>Python</code> <code>LLMs</code> <code>Market data</code></p>
 
-      <a href="https://PROJECT_LINK"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+      <a href="https://PROJECT_LINK"><img src="https://img.shields.io/badge/try_the_demo-847798?style=for-the-badge" alt="Try the demo" /></a>
 
     </td>
 
     <td width="50%" valign="top">
 
-      <h3>🩺 Project Two</h3>
+      <h3>🏦 Copom Tone Tracker</h3>
 
-      <sub><b>short label</b></sub>
+      <sub><b>NLP · monetary policy · in progress</b></sub>
 
-      <p>What it does, in one or two sentences.</p>
+      <p>Uses an LLM to score the tone of Brazil's Central Bank (Copom) minutes and compares it with the interest rate decisions that followed.</p>
 
-      <p><code>Tool</code> <code>Tool</code></p>
+      <p><code>Python</code> <code>LLMs</code></p>
 
     </td>
 
@@ -137,19 +149,19 @@ me = {
 
     <td width="50%" valign="top">
 
-      <h3>🌍 Project Three</h3>
+      <h3>📰 Daily Market Brief</h3>
 
-      <sub><b>short label</b></sub>
+      <sub><b>AI automation · in progress</b></sub>
 
-      <p>What it does, in one or two sentences.</p>
+      <p>An automated daily market summary written by AI, with a page that keeps the history.</p>
 
-      <p><code>Tool</code></p>
+      <p><code>Python</code> <code>LLMs</code></p>
 
     </td>
 
     <td width="50%" valign="top">
 
-      <h3>📂 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO">More Work</a></h3>
+      <h3>📂 <a href="https://github.com/beatrizpama?tab=repositories">More Work</a></h3>
 
       <sub><b>everything else</b></sub>
 
@@ -167,21 +179,19 @@ me = {
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,postgres,docker,git,github,vscode,figma,notion&perline=14&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,nodejs,react,cs,dotnet,mysql,fastapi,gcp,terraform,git,gitlab,azure&perline=13&theme=dark" alt="Python, TypeScript, Node.js, React, C#, .NET, MySQL, FastAPI, GCP, Terraform, Git, GitLab, Azure DevOps" />
 
 </p>
 
 
-<p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
+<p align="center"><b>Working on something in fintech, data or AI? I'd love to hear about it.</b></p>
 
 
 <p align="center">
 
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/say_hi-2967A8?style=for-the-badge" alt="Email me" /></a>
 
 </p>
 
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=your%20sign-off%20line&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Your sign-off line" /></p>
-
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2967A8,100:54161E&height=90&section=footer&text=thanks%20for%20stopping%20by&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="thanks for stopping by" /></p>
