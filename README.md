@@ -58,11 +58,11 @@ me = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://PROJECT_LINK">The Self-Explaining Chart</a></h3>
+      <h3>📈 <a href="https://github.com/beapama/b3-explained-chart">The Self-Explaining Chart for Stocks</a></h3>
       <sub><b>GenAI · B3 stocks · in progress</b></sub>
       <p>A stock chart for B3 tickers where an LLM explains what happened on the days with big moves.</p>
       <p><code>Python</code> <code>LLMs</code> <code>Market data</code></p>
-      <a href="https://PROJECT_LINK"><img src="https://img.shields.io/badge/try_the_demo-E59693?style=for-the-badge" alt="Try the demo" /></a>
+      <a href="https://github.com/beapama/b3-explained-chart"><img src="https://img.shields.io/badge/view_the_code-E59693?style=for-the-badge" alt="View the code" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏦 Copom Tone Tracker</h3>
