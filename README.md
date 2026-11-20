@@ -4,14 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/beatrizpama"><img src="https://img.shields.io/badge/LinkedIn-D52A63?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-D52A63?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.credly.com/users/beatriz-pama"><img src="https://img.shields.io/badge/Credly-D52A63?style=for-the-badge" alt="Credly" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/1_API-automated_the_daily_fund_cash_sweep_for_5%2B_teams-E59693?style=for-the-badge&labelColor=621027" alt="1 API that automated the daily fund cash sweep for 5+ teams" />
-  <img src="https://img.shields.io/badge/3x-BTG_Pactual_internships-E59693?style=for-the-badge&labelColor=621027" alt="3 internships at BTG Pactual" />
+  <a href="https://www.linkedin.com/in/beatrizpama"><img src="https://img.shields.io/badge/LinkedIn-let's_connect-E59693?style=for-the-badge&labelColor=621027" alt="LinkedIn: let's connect" /></a>
+  <a href="https://www.credly.com/users/beatriz-pama"><img src="https://img.shields.io/badge/Credly-9_IBM_badges-E59693?style=for-the-badge&labelColor=621027" alt="Credly: 9 IBM badges" /></a>
   <img src="https://img.shields.io/badge/Salesforce-certified_AI_associate-E59693?style=for-the-badge&labelColor=621027" alt="Salesforce Certified AI Associate" />
 </p>
 
@@ -24,7 +18,7 @@ me = {
     "was":      "intern @ QI Tech, BTG Pactual & IBM",
     "degree":   "Computer Engineering, Escola Politécnica da USP",
     "learning": "GenAI engineering: RAG, agents, LLM evals",
-    "speaks":   ["Portuguese", "English", "French"],
+    "speaks":   ["Portuguese", "English"],
     "pronouns": "she/her",
 }
 ```
