@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beatrizpama"><img src="https://img.shields.io/badge/LinkedIn-let's_connect-E59693?style=for-the-badge&labelColor=621027" alt="LinkedIn: let's connect" /></a>
-  <a href="https://www.credly.com/users/beatriz-pama"><img src="https://img.shields.io/badge/Credly-9_IBM_badges-E59693?style=for-the-badge&labelColor=621027" alt="Credly: 9 IBM badges" /></a>
+  <a href="https://www.credly.com/users/beatriz-pama"><img src="https://img.shields.io/badge/Credly-see_my_certifications-E59693?style=for-the-badge&labelColor=621027" alt="Credly: see my certifications" /></a>
+  <br />
   <img src="https://img.shields.io/badge/Salesforce-certified_AI_associate-E59693?style=for-the-badge&labelColor=621027" alt="Salesforce Certified AI Associate" />
 </p>
 
